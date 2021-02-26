@@ -1,5 +1,9 @@
 {
   "/": "https://beatsmiff.com",
   "rss": "https://freshrss.lofts.sh",
-  "cloud": "https://cloud.lofts.sh"
+  "cloud": "https://cloud.lofts.sh",
+  "fb": "https://facebook.com/loftwahthebeatsmiff",
+  "twtr": "https://twitter.com/loftwah",
+  "ig": "https://instagram.com/loftwah",
+  "gh": "https://github.com/loftwah"
 }
